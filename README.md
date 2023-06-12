@@ -62,6 +62,8 @@ Enter PW when promted
   
 `npm start`
 
+Here is a video walkthrough: https://drive.google.com/file/d/1qwpOkLhskbAV_vk_JujdagNhFguLi9uO/view
+
 ## Testing
 ✏️
 
